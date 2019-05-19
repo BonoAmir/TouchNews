@@ -15,4 +15,14 @@
 -How to do simple animation
 
 
-![alt text](![alt text](http://url/to/img.png))
+<img src="https://github.com/BonoAmir/TouchNews/blob/master/Images/Screenshot_1557341563.png" height="500">
+
+
+<img src="https://github.com/BonoAmir/TouchNews/blob/master/Images/Screenshot_1557341679.png" height="500">
+
+
+<img src="https://github.com/BonoAmir/TouchNews/blob/master/Images/Screenshot_1557342374.png" height="500">
+
+
+
+
